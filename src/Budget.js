@@ -1,13 +1,5 @@
 import React, { Component } from "react";
-import {
-  Form,
-  FormGroup,
-  InputGroupAddon,
-  InputGroupText,
-  Input,
-  Label,
-  Container
-} from "reactstrap";
+import { Form, FormGroup, Input, Label, Container } from "reactstrap";
 
 class Budget extends Component {
   render() {
